@@ -1,0 +1,50 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,Archer_Idle_png,Archer_Idle_json,Archer_Move_json,Archer_Move_png,map_jpg",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "Archer_Idle_png",
+			"type": "image",
+			"url": "assets/Archer_Idle.png"
+		},
+		{
+			"name": "Archer_Idle_json",
+			"type": "json",
+			"url": "assets/Archer_Idle.json"
+		},
+		{
+			"name": "Archer_Move_json",
+			"type": "json",
+			"url": "assets/Archer_Move.json"
+		},
+		{
+			"name": "Archer_Move_png",
+			"type": "image",
+			"url": "assets/Archer_Move.png"
+		},
+		{
+			"name": "map_jpg",
+			"type": "image",
+			"url": "assets/map.jpg"
+		}
+	]
+}
